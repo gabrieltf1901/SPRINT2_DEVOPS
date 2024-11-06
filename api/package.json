@@ -1,0 +1,13 @@
+{
+    "name": "api-sprint2",
+    "version": "1.0.0",
+    "description": "API para a sprint 2",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
